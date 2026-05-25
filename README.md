@@ -8,10 +8,10 @@ I build scalable full-stack applications using modern backend architecture and c
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer passionate about backend systems
-* ⚙️ Building microservices using Spring Boot & Spring Cloud
-* ☁️ Working with AWS Cognito for authentication & authorization
-* 🧠 Exploring OCR + NLP systems for Legal-Tech applications
+* 💻 Full Stack Developer passionate about scalable backend systems
+* ⚙️ Building modern applications with clean architecture and real-world problem solving
+* ☁️ Exploring cloud technologies and secure authentication systems
+* 🧠 Interested in AI-powered applications and intelligent automation
 * 🌱 Learning distributed systems and scalable architectures
 * 📍 Tamil Nadu, India
 
