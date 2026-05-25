@@ -17,40 +17,6 @@ I build scalable full-stack applications using modern backend architecture and c
 
 ---
 
-## 🛠️ Tech Stack
-
-### Backend
-
-* Java
-* Spring Boot
-* Spring Security
-* Spring Cloud
-* Eureka Server
-* API Gateway
-* Feign Client
-* REST APIs
-
-### Frontend
-
-* React.js
-* JavaScript
-* HTML
-* CSS
-
-### Database
-
-* MySQL
-* MongoDB
-
-### Tools
-
-* Git
-* Postman
-* VS Code
-* IntelliJ IDEA
-
----
-
 ## 🔥 Featured Projects
 
 ### 🏛️ AI-Powered Legal Aid Dispatch System
