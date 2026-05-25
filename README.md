@@ -1,6 +1,6 @@
 # Hi 👋, I'm Barath Subramanian
 
-### Full Stack Developer | Java + Spring Boot | React | Microservices
+### Full Stack Developer | Java + Spring Boot | React
 
 I build scalable full-stack applications using modern backend architecture and cloud technologies.
 
