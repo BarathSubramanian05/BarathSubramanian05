@@ -17,6 +17,15 @@ I build scalable full-stack applications using modern backend architecture and c
 
 ---
 
+### 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mysql,postgres,git,github,postman,vscode,idea" />
+</p>
+
+---
+
 ## 🔥 Featured Projects
 
 ### 🏛️ AI-Powered Legal Aid Dispatch System
